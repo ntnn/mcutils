@@ -5,7 +5,7 @@ go 1.26.3
 require (
 	github.com/stretchr/testify v1.12.1
 	k8s.io/apimachinery v0.37.1
-	sigs.k8s.io/controller-runtime v0.25.1
+	sigs.k8s.io/controller-runtime v0.25.2
 	sigs.k8s.io/multicluster-runtime v0.24.1
 )
 
